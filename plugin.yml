@@ -1,0 +1,14 @@
+name: FastAsyncWorldEditBedrock
+version: 1.0.0
+main: icrafts\fastasyncworldeditbedrock\FastAsyncWorldEditBedrock
+api: 5.0.0
+author: iCrafts
+description: Lightweight FAWE-style editor for PocketMine Bedrock servers.
+
+permissions:
+  fawe.use:
+    default: true
+  fawe.wand:
+    default: true
+  fawe.edit:
+    default: op
